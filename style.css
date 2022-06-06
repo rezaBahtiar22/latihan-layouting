@@ -1,0 +1,80 @@
+.panjang {
+    display: flex;
+    justify-content: space-around;
+}
+
+.kotakPanjang {
+    width: 400px;
+    height: 50px;
+    background-color: brown;
+}
+
+.kiri {
+    display: flex;
+    margin-top: 20px;
+    gap: 10px;
+}
+
+.kotak, .kotak1 {
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    border: 1px solid black;
+}
+
+.tengah {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.kotak, .kotak2 {
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    border: 1px solid black;
+}
+
+.four {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.yor{
+    display: flex;
+    margin-top: 20px;
+    gap: 10px;
+}
+
+.satu, .dua, .tiga {
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    border: 1px solid black;
+}
+
+.dalam {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.kanan {
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    border: 1px solid black;
+}
+
+.long {
+    width: 100%;
+    height: 50px;
+    background-color: brown;
+    margin-top: 20px;
+}
+
+
+
+
+
